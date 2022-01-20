@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+.teble {
+  background: #ffdddd;
+  display: table;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.table-col {
+  background: #ffdddd;
+  display: table-column;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+}
+
+.mainMenuItem {
+}
